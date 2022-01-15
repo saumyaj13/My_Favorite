@@ -1,8 +1,13 @@
 body{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: slategray;
 }
 
 div{
     margin-bottom: 20px;
+}
+
+button{
+    background-color: slategray;
 }
